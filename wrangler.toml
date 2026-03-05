@@ -1,7 +1,1 @@
-name = "danmu-api"
-main = "danmu_api/worker.js"
-compatibility_date = "2025-09-13"
-compatibility_flags = ["nodejs_compat"]
-[[routes]]
-pattern = "danmu-api.yu.chat"
-custom_domain = true
+keep_vars = true
